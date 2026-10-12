@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.devrecated.com"><img src="assets/devrecated-lockup.svg" alt="Devrecated Solutions" width="640"></a>
+  <a href="https://www.devrecated.com"><img src="assets/devrecated-lockup.png" alt="Devrecated Solutions" width="640"></a>
 </p>
 
 More business. Fewer engineers.
