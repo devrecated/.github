@@ -10,11 +10,11 @@ Autodevelop gives coding agents the process, gates, and evidence to ship, so a s
 
 <table>
 <tr>
-<td valign="middle"><a href="https://www.devrecated.com"><img src="assets/icons/devrecated.svg" width="28" height="28" alt="" align="absmiddle"> devrecated.com</a></td>
+<td valign="middle"><a href="https://www.devrecated.com"><img src="assets/icons/devrecated.png" width="28" height="28" alt="" align="absmiddle"> devrecated.com</a></td>
 <td>Governed AI development systems</td>
 </tr>
 <tr>
-<td valign="middle"><a href="https://www.devrecated.com/about"><img src="assets/icons/devrecated.svg" width="28" height="28" alt="" align="absmiddle"> About</a></td>
+<td valign="middle"><a href="https://www.devrecated.com/about"><img src="assets/icons/devrecated.png" width="28" height="28" alt="" align="absmiddle"> About</a></td>
 <td>How the practice is set up</td>
 </tr>
 <tr>
@@ -142,4 +142,4 @@ Reusable skills for Grok Bot, starting with DaVinci Resolve. MIT.
 
 Packaging for the CLI: [Homebrew tap](https://github.com/devrecated/homebrew-tap) · [Scoop bucket](https://github.com/devrecated/scoop-bucket) · [apt and dnf packages](https://github.com/devrecated/packages)
 
-<a href="mailto:sales@devrecated.com"><img src="assets/icons/devrecated.svg" width="28" height="28" alt="" align="absmiddle"> sales@devrecated.com</a>
+<a href="mailto:sales@devrecated.com"><img src="assets/icons/devrecated.png" width="28" height="28" alt="" align="absmiddle"> sales@devrecated.com</a>
